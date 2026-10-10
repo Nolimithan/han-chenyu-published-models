@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the corresponding paper."
+title: "Code for two published financial trading models"
+authors:
+  - family-names: Han
+    given-names: Chenyu
+preferred-citation:
+  type: article
+  title: "Artificial intelligence-driven financial innovation: A robo-advisor system for robust returns across diversified markets"
+  authors:
+    - family-names: Zhu
+      given-names: Qing
+    - family-names: Han
+      given-names: Chenyu
+    - family-names: Liu
+      given-names: Shan
+    - family-names: Li
+      given-names: Yuze
+    - family-names: Che
+      given-names: Jianhua
+  journal: "Expert Systems with Applications"
+  volume: 274
+  start: 126881
+  year: 2025
+  doi: 10.1016/j.eswa.2025.126881
+references:
+  - type: article
+    title: "Dual-market quantitative trading: the dynamics of liquidity and turnover in financial markets"
+    authors:
+      - family-names: Zhu
+        given-names: Qing
+      - family-names: Han
+        given-names: Chenyu
+      - family-names: Li
+        given-names: Yuze
+    journal: "Data Science and Management"
+    volume: 8
+    start: 48
+    end: 58
+    year: 2025
+    doi: 10.1016/j.dsm.2024.07.003
