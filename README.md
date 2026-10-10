@@ -1,6 +1,4 @@
-# 韩辰宇已发表论文的实验代码
-
-本仓库只收录两篇已发表论文中实际使用的实验流程，来源是 `D:\Python project` 里与论文设定能够对应的笔记本和脚本。教程、其他品种、自编码器以及其他未进入论文表格的模型没有放入。
+# 已发表论文的实验代码
 
 ## 论文
 
@@ -30,9 +28,6 @@
 | ESWA：表 4 的风险指标与图 10 | `metrics.py`、`random_seed_metrics.py` | `ESWA/Risk indicators.py`、`ESWA/random seeds.py` |
 | ESWA：ARIMA 与 Markov switching | `baselines/` | `ESWA/ARIMA.py`、`ESWA/Regime switching model.py` |
 
-## 明确未纳入的代码
-
-以下内容出现在同一工程里，但没有进入这两篇论文的方法或结果表：AE-BiGRU、只吃 VMD 序列且滚动周期为 120 的 BiGRU、SHAUc1、SNIc1、集装箱运价、比特币和个股练习、TensorFlow 语法草稿、灰度图探索笔记本、LaTeX 作图笔记本，以及审稿摘录脚本。ESWA 的 CNN 笔记本中定义过通道注意力，计算图没有调用它，因此也不包含。
 
 ## 复现边界
 
